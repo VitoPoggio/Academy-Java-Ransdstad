@@ -1,0 +1,16 @@
+Id: 2
+Marca: Auto2
+Modello: Modello2
+Anno: 2001
+Targa: SJFNIDJN
+Prezzo: 44.44
+TipoCarburante: Diesel
+---
+Id: 3
+Marca: a
+Modello: a
+Anno: 1234
+Targa: AA224FF
+Prezzo: 2222.0
+TipoCarburante: benzina
+---
