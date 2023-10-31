@@ -31,3 +31,6 @@
 
 9) LibreriaHibernateH2: Applicazione di gestione Libreria con Libri e Autori. utilizzo di Hibernate, JPARepository e database H2
 - Creata struttura base con model libro e autore e relazione ManyToMany, Repository, service e controller. In corso la modifica con tabella intermedia per gestire separatamente le relazioni tra libri e autori.
+
+10) GestioneLavanderia: applicazione per gestire una lavanderia con Clienti, ordini e servizi. utilizzo di Hibernate, JPARepository e database H2
+- Crati model,repository, service e controller per crud base. Da implementare query personalizzate per recupero dati e modificare metodo di salvataggio nuovo ordine
