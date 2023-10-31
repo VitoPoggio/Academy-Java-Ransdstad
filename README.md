@@ -1,6 +1,6 @@
 # Academy-Java-Ransdstad
 
-#JAVA
+# JAVA
 
 Esercizio Gestione Videogiochi: Creazione e utilizzo di strutture dati / Struttura progetto creata e funzionante, iniziato menu ma da completare con alcune operazioni.
 
