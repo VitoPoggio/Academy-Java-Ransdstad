@@ -34,3 +34,6 @@
 
 10) GestioneLavanderia: applicazione per gestire una lavanderia con Clienti, ordini e servizi. utilizzo di Hibernate, JPARepository e database H2
 - Crati model,repository, service e controller per crud base. Da implementare query personalizzate per recupero dati e modificare metodo di salvataggio nuovo ordine
+
+# TEST FINALE
+Repository del TestFinale https://github.com/VitoPoggio/TestFinaleRandstad
